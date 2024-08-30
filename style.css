@@ -2,7 +2,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 5px;
 }
-body::-webkit-scrollbar{
+::-webkit-scrollbar{
     display: none;
 }
 body{
